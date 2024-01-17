@@ -1,0 +1,29 @@
+
+HTML Tags:
+1. <!DOCTYPE html>
+2. <button>
+3. <script>
+4. <meta>
+5.<footer>
+6. <h3>
+7. <div>
+8. <h1>
+9. <p>
+10. <a>
+
+CSS Properties:
+1. font-size
+2. color
+3. background-color
+4. margin
+5. padding
+6. jumbotron
+
+JavaScript Features:
+- Used JavaScript to dynamically load content and reset answers on incorrect choices, to go back to the homepage, and to implement a jumbotron with photo.
+
+Bootstrap Integration:
+- Utilized Bootstrap for styling, including buttons and layout.
+
+Mobile Responsiveness:
+- Ensured the website looks nice on browsers both on mobile devices as well as laptops and desktops.
